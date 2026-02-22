@@ -355,26 +355,7 @@
   "userWidgets": [],
   "lvglStyles": {
     "objID": "a31bd004-35c5-b3fb-5c8b-78ea5c7693b8",
-    "styles": [
-      {
-        "objID": "3b61bc0b-3853-4c92-f033-5e9edcad16c4",
-        "name": "Weatherstation Button",
-        "forWidgetType": "LVGLButtonWidget",
-        "childStyles": [],
-        "definition": {
-          "objID": "9fa4bab4-22a7-4c7e-d0d4-95b880266882",
-          "definition": {
-            "MAIN": {
-              "DEFAULT": {
-                "bg_color": "#F56101",
-                "bg_grad_color": "#000000",
-                "text_font": "FreeSans24"
-              }
-            }
-          }
-        }
-      }
-    ],
+    "styles": [],
     "defaultStyles": {}
   },
   "lvglGroups": {
